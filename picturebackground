@@ -3,6 +3,6 @@
       <title>first page</title>
    </head>
    <body> 
-      <img src="tree.jpg" alt="" />
+      <img src="tree.jpg" alt="tree" />
    </body>
 </html>
